@@ -1,0 +1,29 @@
+E:\Тиунов\учёба (тиунов)\учёба\Visual Studio 2010\Projects\Temp\zad\zad\bin\Debug\zad.exe
+E:\Тиунов\учёба (тиунов)\учёба\Visual Studio 2010\Projects\Temp\zad\zad\bin\Debug\zad.pdb
+E:\Тиунов\учёба (тиунов)\учёба\Visual Studio 2010\Projects\Temp\zad\zad\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Тиунов\учёба (тиунов)\учёба\Visual Studio 2010\Projects\Temp\zad\zad\obj\x86\Debug\zad.Form1.resources
+E:\Тиунов\учёба (тиунов)\учёба\Visual Studio 2010\Projects\Temp\zad\zad\obj\x86\Debug\zad.Properties.Resources.resources
+E:\Тиунов\учёба (тиунов)\учёба\Visual Studio 2010\Projects\Temp\zad\zad\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Тиунов\учёба (тиунов)\учёба\Visual Studio 2010\Projects\Temp\zad\zad\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Тиунов\учёба (тиунов)\учёба\Visual Studio 2010\Projects\Temp\zad\zad\obj\x86\Debug\zad.exe
+E:\Тиунов\учёба (тиунов)\учёба\Visual Studio 2010\Projects\Temp\zad\zad\obj\x86\Debug\zad.pdb
+C:\Documents and Settings\ivtiunov\Мои документы\Visual Studio 2010\Projects\Programma\zad\obj\x86\Debug\zad.exe
+C:\Documents and Settings\ivtiunov\Мои документы\Visual Studio 2010\Projects\Programma\zad\obj\x86\Debug\zad.pdb
+C:\Documents and Settings\ivtiunov\Мои документы\Visual Studio 2010\Projects\Programma\zad\bin\Debug\zad.exe
+C:\Documents and Settings\ivtiunov\Мои документы\Visual Studio 2010\Projects\Programma\zad\bin\Debug\zad.pdb
+C:\Documents and Settings\ivtiunov\Мои документы\Visual Studio 2010\Projects\Programma\zad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ivtiunov\Мои документы\Visual Studio 2010\Projects\Programma\zad\obj\x86\Debug\zad.Form1.resources
+C:\Documents and Settings\ivtiunov\Мои документы\Visual Studio 2010\Projects\Programma\zad\obj\x86\Debug\zad.Properties.Resources.resources
+C:\Documents and Settings\ivtiunov\Мои документы\Visual Studio 2010\Projects\Programma\zad\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\ivtiunov\Мои документы\Visual Studio 2010\Projects\Programma\zad\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+\\It\docs\Visual Studio 2008\Projects\Programma\zad\obj\x86\Debug\zad.exe
+\\It\docs\Visual Studio 2008\Projects\Programma\zad\obj\x86\Debug\zad.pdb
+\\It\docs\Visual Studio 2008\Projects\Programma\zad\bin\Debug\zad.exe
+\\It\docs\Visual Studio 2008\Projects\Programma\zad\bin\Debug\zad.pdb
+\\It\docs\Visual Studio 2008\Projects\Programma\zad\obj\x86\Debug\ResolveAssemblyReference.cache
+\\It\docs\Visual Studio 2008\Projects\Programma\zad\obj\x86\Debug\zad.Form1.resources
+\\It\docs\Visual Studio 2008\Projects\Programma\zad\obj\x86\Debug\zad.Properties.Resources.resources
+\\It\docs\Visual Studio 2008\Projects\Programma\zad\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+\\It\docs\Visual Studio 2008\Projects\Programma\zad\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Docs\Учеба\__МГСУ\Системотехника (Гинзбург А.В.)\КП\КП\Programma\zad\obj\x86\Debug\zad.exe
+D:\Docs\Учеба\__МГСУ\Системотехника (Гинзбург А.В.)\КП\КП\Programma\zad\obj\x86\Debug\zad.pdb
