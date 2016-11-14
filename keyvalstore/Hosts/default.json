@@ -1,0 +1,10 @@
+﻿[
+  {
+    "name": "role",
+    "value": "server-server"
+  },
+  {
+    "name": "location",
+    "value": "sdn"
+  }
+] 
