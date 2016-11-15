@@ -5,13 +5,14 @@ using System.Net;
 using System.Web;
 using System.Web.Http;
 using System.IO;
+using System.Threading.Tasks;
 using Newtonsoft.Json;
 
 namespace keyvalstore.Controllers
 {
     public class factsController : ApiController
     {
-        public fact[] LoadJson()
+        public async Task<fact[]> LoadJson()
         {
             try
             {
@@ -23,7 +24,7 @@ namespace keyvalstore.Controllers
  
                 using (StreamReader r = new StreamReader(fullPath))
                 {
-                    string json = r.ReadToEnd();
+                    string json = await r.ReadToEndAsync();
                     List<fact> facts = JsonConvert.DeserializeObject<List<fact>>(json);
 
                     return facts.ToArray();
@@ -40,15 +41,15 @@ namespace keyvalstore.Controllers
             }
         }
 
-        public IEnumerable<fact> GetAllFacts()
+        public async Task<IEnumerable<fact>> GetAllFacts()
         {
-            var facts = LoadJson();
+            var facts = await LoadJson();
             return facts;
         }
 
-        public IHttpActionResult GetFact(string name)
+        public async Task<IHttpActionResult> GetFact(string name)
         {
-            var facts = LoadJson();
+            var facts = await LoadJson();
             var fact = facts.FirstOrDefault((f) => f.name == name);
             if (fact == null)
             {
